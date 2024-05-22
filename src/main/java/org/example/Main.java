@@ -29,7 +29,7 @@ public class Main {
 
        /* System.out.println(isCatPlaying(true, 10));
         System.out.println( isCatPlaying(false, 36));
-        System.out.println(isCatPlaying(false, 35)); gfjghjgrdgrthtrrte4t4ter
+        System.out.println(isCatPlaying(false, 35)); gfjghjgrdgrthtrrte4t4terddfggff
         */
 
        Scanner scanner = new Scanner(System.in);
